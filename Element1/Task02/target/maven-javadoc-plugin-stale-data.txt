@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/nethome1/scm-studs/w9625845/Task02/Task02/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Task02 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/nethome1/scm-studs/w9625845/Task02/Task02/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Task02 1.0-SNAPSHOT API'
+oop.ica.e1
+/nethome1/scm-studs/w9625845/Task02/Task02/src/main/java = 1678452589066
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/element-list = 1678456150054
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/constant-values.html = 1678456150086
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/overview-tree.html = 1678456150126
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/package-search-index.js = 1678456150142
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/package-search-index.zip = 1678456150170
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/type-search-index.js = 1678456150174
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/type-search-index.zip = 1678456150178
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/member-search-index.js = 1678456150182
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/member-search-index.zip = 1678456150198
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/index-all.html = 1678456150338
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/allclasses-index.html = 1678456150382
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/allpackages-index.html = 1678456150398
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/deprecated-list.html = 1678456150410
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/allclasses.html = 1678456150418
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/index.html = 1678456150426
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/help-doc.html = 1678456150434
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/stylesheet.css = 1678456150438
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/script.js = 1678456150454
+/nethome1/scm-studs/w9625845/Task02/Task02/target/site/apidocs/search.js = 1678456150458
